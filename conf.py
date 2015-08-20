@@ -111,7 +111,7 @@ extlinks = {
     'os': ('http://www.openstack.org/%s', ''),
     'os-docs': ('http://docs.openstack.org/%s', ''),
     'os-wiki': ('http://wiki.openstack.org/%s', ''),
-    'git-repo': ('https://github.com/rackerlabs/docs-core-infra-user-guide/%s', ''),
+    'git-repo': ('https://github.com/rackerlabs/docs-network-user-guide/%s', ''),
     'rackerlabs': ('https://github.com/rackerlabs/%s', ''),
     'rocket': ('https://objectrocket.com/%s', '')
 }
