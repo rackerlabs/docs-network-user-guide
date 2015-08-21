@@ -32,12 +32,6 @@ situation is unique, and we want to help you recognize topics to
 investigate and options to pursue as you move your work into
 the Rackspace managed cloud.
 
-* **has already read about Rackspace's core infrastructure**
-
-We have written the :rax-dev:`Rackspace Core Infrastructure user guide <docs/user-guides/infrastructure/>`
-as an introduction to the Rackspace cloud and the tools needed to interact with our cloud.
-This guide represents that next level in your path to more effectively using our services.
-
 * **is willing to follow links from this brief guide to more detailed
   Rackspace resources**
 
